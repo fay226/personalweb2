@@ -429,7 +429,7 @@ ul li {
 	transform: translate3d(0, 0, 0);
 }
 
-
+.container-fluid { max-width: 1530px; }
 
 .tm-header-gallery {
 	display: -ms-flexbox;
