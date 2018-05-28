@@ -428,6 +428,18 @@ ul li {
 	-webkit-transform: translate3d(0, 0, 0);
 	transform: translate3d(0, 0, 0);
 }
+
+
+
+.tm-header-gallery {
+	display: -ms-flexbox;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-ms-flex-wrap: wrap;
+	    -webkit-flex-wrap: wrap;
+	        flex-wrap: wrap;
+}
 /* ------------------------------------------------------------------------------
 	 Footer
 -------------------------------------------------------------------------------*/
